@@ -1,0 +1,7 @@
+project_id = "isgvscjyyajtebxdnuuf"
+
+[auth]
+enabled = true
+
+[functions.roast-resume]
+verify_jwt = false
